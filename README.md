@@ -1,6 +1,6 @@
 # Web-Based Food Delivery
 
-Welcome to the Web-Based Food Delivery project! This repository contains the code and documentation for a comprehensive web-based platform designed to facilitate food delivery services. The platform connects customers with local restaurants, allowing them to browse menus, place orders, and track deliveries in real-time. This solution aims to revolutionize the food delivery experience by providing a seamless, efficient, and user-friendly interface for all parties involved - customers, restaurants, and delivery personnel.
+This repository contains the code and documentation for a comprehensive web-based platform designed to facilitate food delivery services. The platform connects customers with local restaurants, allowing them to browse menus, place orders, and track deliveries in real-time. This solution aims to revolutionize the food delivery experience by providing a seamless, efficient, and user-friendly interface for all parties involved - customers, restaurants, and delivery personnel.
 
 ### Why This Project?
 With the increasing demand for food delivery services, there is a need for a reliable and efficient platform that can handle a large number of orders while ensuring customer satisfaction. This project aims to meet that demand by providing a robust and scalable solution that benefits all stakeholders involved. By leveraging modern web technologies, the platform offers a superior user experience, streamlines operations for restaurants, and ensures timely deliveries.
